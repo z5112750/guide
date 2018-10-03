@@ -31,6 +31,7 @@ If the output value 'y' is a discrete / categorical value then the function is a
 ```  
 - **Clustering** - Grouping of unlabelled data. Identifying patterns using statistics.
 - **Dimensionality Reduction** - Reducing the number of random variables in the data to get more accurate predictions.
+- **Cost Function** - The cost function defines a cost based on the distance between true target and predicted target. It is also known as the residual.
 
 ### More Information:
 
